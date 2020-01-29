@@ -27,5 +27,8 @@
     "truffle-contract": "^4.0.31",
     "truffle-hdwallet-provider-privkey": "^0.3.0",
     "web3": "^1.2.5"
+  },
+  "bin": {
+    "cherrybit": "./index.js"
   }
 }

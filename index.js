@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const colors = require('colors');
 const clear = require('clear');
 const CFonts = require('cfonts');
