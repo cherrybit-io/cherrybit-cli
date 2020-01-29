@@ -1,0 +1,19 @@
+{
+  "name": "cherrybit-cli",
+  "version": "1.0.0",
+  "description": "An cli interaction to register on cherrybit",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Graph",
+    "DB",
+    "API",
+    "(neo4j)",
+    "graphql",
+    "node.js"
+  ],
+  "author": "pbl808HS",
+  "license": "ISC"
+}
