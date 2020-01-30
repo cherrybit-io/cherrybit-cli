@@ -15,5 +15,20 @@
     "node.js"
   ],
   "author": "pbl808HS",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "cfonts": "^2.4.8",
+    "clear": "^0.1.0",
+    "colors": "^1.4.0",
+    "configstore": "^5.0.0",
+    "keythereum": "^1.0.4",
+    "prompt": "^1.0.0",
+    "touch": "^3.1.0",
+    "truffle-contract": "^4.0.31",
+    "truffle-hdwallet-provider-privkey": "^0.3.0",
+    "web3": "^1.2.5"
+  },
+  "bin": {
+    "cherrybit": "./index.js"
+  }
 }
